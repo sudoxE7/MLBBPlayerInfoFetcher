@@ -22,6 +22,9 @@ And add a dependency code to your **module**'s `build.gradle` file.
 dependencies {
         implementation 'com.github.sudoxE7:MLBBPlayerInfoFetcher:master-SNAPSHOT'
 }
+
+// If dependency not found, try this:
+'com.github.sudoxE7:MLBBPlayerInfoFetcher:-6f33fb6a31-1'
 ```
 
 ## Default Usage
